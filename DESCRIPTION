@@ -1,11 +1,11 @@
 Package: bioR
-Type: Package
-Title: What the Package Does (Title Case)
+Title: some functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: person("JT", "Guo", email = "guojt4451@gmail.com", role = c("aut", "cre"))
+Description: Some bioinfomatics functions
+Depends: R (>= 3.5.0)
+License: MIT
+URL: https://github.com/ghxdghxd/bioR
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
